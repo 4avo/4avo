@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4avo" alt="4avo" /></a> </p>
 
-- 🔭 I’m currently working on **Framework 1**
-
-- 🌱 I’m currently learning **Frameworks, JS, Python, PHP**
-
-- 👯 I’m looking to collaborate on **Framework 2**
-
-- 🤝 I’m looking for help with **Framework 1**
-
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **chavdar.p.tsvetkov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
